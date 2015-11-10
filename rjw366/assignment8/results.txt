@@ -1,0 +1,4 @@
+Position: 1, Mean = 0.003, Std Dev = 0.99999549999
+Position: 10, Mean = 0.0213, Std Dev = 0.317386688442
+Position: 100, Mean = 0.019944, Std Dev = 0.100015583106
+Position: 1000, Mean = 0.0200684, Std Dev = 0.0318472749453
